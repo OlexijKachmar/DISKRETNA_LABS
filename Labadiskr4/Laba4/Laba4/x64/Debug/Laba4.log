@@ -1,2 +1,10 @@
 ﻿  Laba4.cpp
+d:\універ\лаби з дискретки\diskretna_labs\labadiskr4\laba4\laba4\laba4.cpp(142): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+d:\універ\лаби з дискретки\diskretna_labs\labadiskr4\laba4\laba4\laba4.cpp(148): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+d:\універ\лаби з дискретки\diskretna_labs\labadiskr4\laba4\laba4\laba4.cpp(155): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+d:\універ\лаби з дискретки\diskretna_labs\labadiskr4\laba4\laba4\laba4.cpp(156): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
   Laba4.vcxproj -> D:\Універ\Лаби з дискретки\DISKRETNA_LABS\Labadiskr4\Laba4\x64\Debug\Laba4.exe
