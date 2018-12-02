@@ -1,0 +1,4 @@
+﻿  Laba5.cpp
+f:\olexij\laba5\laba5\laba5.cpp(16): warning C4101: 'aimPoint': unreferenced local variable
+f:\olexij\laba5\laba5\laba5.cpp(74): warning C4018: '<': signed/unsigned mismatch
+  Laba5.vcxproj -> F:\Olexij\Laba5\Debug\Laba5.exe
