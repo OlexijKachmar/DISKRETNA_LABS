@@ -1,4 +1,5 @@
 ﻿  Laba5.cpp
-f:\olexij\laba5\laba5\laba5.cpp(16): warning C4101: 'aimPoint': unreferenced local variable
-f:\olexij\laba5\laba5\laba5.cpp(74): warning C4018: '<': signed/unsigned mismatch
-  Laba5.vcxproj -> F:\Olexij\Laba5\Debug\Laba5.exe
+f:\olexij\лаби з дискретки\labadiskr5\laba5\laba5.cpp(158): warning C4018: '<': signed/unsigned mismatch
+f:\olexij\лаби з дискретки\labadiskr5\laba5\laba5.cpp(179): warning C4018: '<': signed/unsigned mismatch
+f:\olexij\лаби з дискретки\labadiskr5\laba5\laba5.cpp(205): warning C4018: '<': signed/unsigned mismatch
+  Laba5.vcxproj -> F:\Olexij\Лаби з дискретки\Labadiskr5\Debug\Laba5.exe
