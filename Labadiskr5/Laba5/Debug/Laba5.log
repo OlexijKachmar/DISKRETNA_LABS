@@ -1,5 +1,7 @@
 ﻿  Laba5.cpp
-f:\olexij\лаби з дискретки\labadiskr5\laba5\laba5.cpp(158): warning C4018: '<': signed/unsigned mismatch
-f:\olexij\лаби з дискретки\labadiskr5\laba5\laba5.cpp(179): warning C4018: '<': signed/unsigned mismatch
-f:\olexij\лаби з дискретки\labadiskr5\laba5\laba5.cpp(205): warning C4018: '<': signed/unsigned mismatch
+f:\olexij\лаби з дискретки\labadiskr5\laba5\laba5.cpp(159): warning C4018: '<': signed/unsigned mismatch
+f:\olexij\лаби з дискретки\labadiskr5\laba5\laba5.cpp(180): warning C4018: '<': signed/unsigned mismatch
+f:\olexij\лаби з дискретки\labadiskr5\laba5\laba5.cpp(206): warning C4018: '<': signed/unsigned mismatch
+f:\olexij\лаби з дискретки\labadiskr5\laba5\laba5.cpp(228): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  LINK : F:\Olexij\Лаби з дискретки\Labadiskr5\Debug\Laba5.exe not found or not built by the last incremental link; performing full link
   Laba5.vcxproj -> F:\Olexij\Лаби з дискретки\Labadiskr5\Debug\Laba5.exe

@@ -9,6 +9,7 @@ using namespace std;
 vector<int> DeleteElement(vector<int> vector, int valueToDelete);
 /*vector<vector<int>>*/
 vector<vector<int>>  GetPath(int matrix[30][30], vector<int> points, vector<int> *weight, vector<int> usedPoints);
+int ValidInput();
 
 int main()
 {
@@ -123,16 +124,16 @@ int main()
 
 	
 
-		int startPoint;
+	int startPoint;
 	int aimPoint;
 	cout << "Enter element,u want to start with\n";
-	cin >> startPoint;
+	startPoint = ValidInput();
 
-	/*while(startPoint == 0)
+	while(startPoint == 0)
 	{
 		cout << "startpoint !=<<startPoint";
 		cin >> startPoint;
-	}*/
+	}
 
 	cout << "Enter aim point";
 	cin >> aimPoint;
@@ -210,4 +211,19 @@ vector<int> DeleteElement(vector<int> vector, int valueToDelete)
 		}
 	}
 	return vector;
+}
+
+int ValidInput()
+{
+	double x;
+	cin >> x;
+	while (std::cin.fail())
+	{
+		cin.clear();
+		cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+		cout << "Bad entry. \n";
+		cin >> x;
+	}
+
+	return x;
 }
