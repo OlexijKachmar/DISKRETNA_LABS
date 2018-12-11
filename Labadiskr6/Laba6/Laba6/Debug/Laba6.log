@@ -1,0 +1,11 @@
+﻿  Laba6.cpp
+d:\універ\лаби з дискретної математики\labadiskr6\laba6\laba6\laba6.cpp(93): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\універ\лаби з дискретної математики\labadiskr6\laba6\laba6\laba6.cpp(96): warning C4018: '<': signed/unsigned mismatch
+d:\універ\лаби з дискретної математики\labadiskr6\laba6\laba6\laba6.cpp(101): warning C4267: 'argument': conversion from 'size_t' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+d:\універ\лаби з дискретної математики\labadiskr6\laba6\laba6\laba6.cpp(105): warning C4018: '<': signed/unsigned mismatch
+d:\універ\лаби з дискретної математики\labadiskr6\laba6\laba6\laba6.cpp(177): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Laba6.vcxproj -> D:\Універ\Лаби з дискретної математики\Labadiskr6\Laba6\Debug\Laba6.exe
